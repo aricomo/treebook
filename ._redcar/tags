@@ -1,8 +1,9 @@
-1417733478
+1418164066
 Application	C:/Sites/treebook/config/application.rb	  class Application 
 ApplicationController	C:/Sites/treebook/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/treebook/app/helpers/application_helper.rb	module ApplicationHelper
 CreateStatuses	C:/Sites/treebook/db/migrate/20141204220259_create_statuses.rb	class CreateStatuses 
+DeviseCreateUsers	C:/Sites/treebook/db/migrate/20141206205727_devise_create_users.rb	class DeviseCreateUsers 
 Status	C:/Sites/treebook/app/models/status.rb	class Status 
 StatusTest	C:/Sites/treebook/test/models/status_test.rb	class StatusTest 
 StatusesController	C:/Sites/treebook/app/controllers/statuses_controller.rb	class StatusesController 
@@ -11,7 +12,10 @@ StatusesHelper	C:/Sites/treebook/app/helpers/statuses_helper.rb	module StatusesH
 StatusesHelperTest	C:/Sites/treebook/test/helpers/statuses_helper_test.rb	class StatusesHelperTest 
 TestCase	C:/Sites/treebook/test/test_helper.rb	class ActiveSupport::TestCase
 Treebook	C:/Sites/treebook/config/application.rb	module Treebook
+User	C:/Sites/treebook/app/models/user.rb	class User 
+UserTest	C:/Sites/treebook/test/models/user_test.rb	class UserTest 
 change	C:/Sites/treebook/db/migrate/20141204220259_create_statuses.rb	  def change
+change	C:/Sites/treebook/db/migrate/20141206205727_devise_create_users.rb	  def change
 create	C:/Sites/treebook/app/controllers/statuses_controller.rb	  def create
 destroy	C:/Sites/treebook/app/controllers/statuses_controller.rb	  def destroy
 edit	C:/Sites/treebook/app/controllers/statuses_controller.rb	  def edit

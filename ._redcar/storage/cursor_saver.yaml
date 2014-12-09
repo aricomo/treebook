@@ -1,4 +1,29 @@
 --- 
-cursor_positions: []
-
+cursor_positions: 
+  - :path: app/controllers/application_controller.rb
+    :cursor_offset: 0
+    :timestamp: 2014-12-04 13:47:09.135000 -08:00
+  - :path: app/views/statuses/new.html.erb
+    :cursor_offset: 80
+    :timestamp: 2014-12-04 14:02:59.713000 -08:00
+  - :path: app/assets/javascripts/application.js
+    :cursor_offset: 512
+    :timestamp: 2014-12-04 13:47:09.129000 -08:00
+  - :path: app/assets/stylesheets/scaffolds.css.scss
+    :cursor_offset: 0
+    :timestamp: 2014-12-06 13:38:17.076000 -08:00
+  - :path: app/views/layouts/application.html.erb
+    :cursor_offset: 586
+    :timestamp: 2014-12-07 21:40:42.745000 -08:00
+  - :path: app/assets/stylesheets/application.css
+    :cursor_offset: 522
+    :timestamp: 2014-12-07 21:36:44.037000 -08:00
+    :selection_offset: 541
+    :block_selection_mode: false
+  - :path: app/views/statuses/index.html.erb
+    :cursor_offset: 441
+    :timestamp: 2014-12-07 23:31:24.157000 -08:00
+  - :path: app/assets/stylesheets/statuses.css.scss
+    :cursor_offset: 257
+    :timestamp: 2014-12-07 23:34:07.958000 -08:00
 files_to_retain: 0

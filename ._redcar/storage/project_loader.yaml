@@ -1,3 +1,9 @@
 --- 
-open_files: []
-
+open_files: 
+  - app/views/statuses/new.html.erb
+  - app/assets/javascripts/application.js
+  - app/assets/stylesheets/scaffolds.css.scss
+  - app/views/layouts/application.html.erb
+  - app/assets/stylesheets/application.css
+  - app/views/statuses/index.html.erb
+  - app/assets/stylesheets/statuses.css.scss
