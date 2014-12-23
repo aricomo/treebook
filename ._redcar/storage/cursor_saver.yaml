@@ -21,9 +21,15 @@ cursor_positions:
     :selection_offset: 541
     :block_selection_mode: false
   - :path: app/views/statuses/index.html.erb
-    :cursor_offset: 441
-    :timestamp: 2014-12-07 23:31:24.157000 -08:00
+    :cursor_offset: 176
+    :timestamp: 2014-12-09 22:25:57.401000 -08:00
   - :path: app/assets/stylesheets/statuses.css.scss
-    :cursor_offset: 257
-    :timestamp: 2014-12-07 23:34:07.958000 -08:00
+    :cursor_offset: 276
+    :timestamp: 2014-12-09 14:20:35.139000 -08:00
+  - :path: app/assets/javascripts/statuses.js.coffee
+    :cursor_offset: 249
+    :timestamp: 2014-12-09 14:18:44.938000 -08:00
+  - :path: .gitignore
+    :cursor_offset: 378
+    :timestamp: 2014-12-09 14:27:46.418000 -08:00
 files_to_retain: 0

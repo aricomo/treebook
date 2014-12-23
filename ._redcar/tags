@@ -1,4 +1,5 @@
-1418164066
+1419307661
+AddUserIdToStatuses	C:/Sites/treebook/db/migrate/20141223040416_add_user_id_to_statuses.rb	class AddUserIdToStatuses 
 Application	C:/Sites/treebook/config/application.rb	  class Application 
 ApplicationController	C:/Sites/treebook/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	C:/Sites/treebook/app/helpers/application_helper.rb	module ApplicationHelper
@@ -16,6 +17,7 @@ User	C:/Sites/treebook/app/models/user.rb	class User
 UserTest	C:/Sites/treebook/test/models/user_test.rb	class UserTest 
 change	C:/Sites/treebook/db/migrate/20141204220259_create_statuses.rb	  def change
 change	C:/Sites/treebook/db/migrate/20141206205727_devise_create_users.rb	  def change
+change	C:/Sites/treebook/db/migrate/20141223040416_add_user_id_to_statuses.rb	  def change
 create	C:/Sites/treebook/app/controllers/statuses_controller.rb	  def create
 destroy	C:/Sites/treebook/app/controllers/statuses_controller.rb	  def destroy
 edit	C:/Sites/treebook/app/controllers/statuses_controller.rb	  def edit

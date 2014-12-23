@@ -7,3 +7,5 @@ open_files:
   - app/assets/stylesheets/application.css
   - app/views/statuses/index.html.erb
   - app/assets/stylesheets/statuses.css.scss
+  - app/assets/javascripts/statuses.js.coffee
+  - .gitignore

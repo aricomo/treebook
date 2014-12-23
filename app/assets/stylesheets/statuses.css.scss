@@ -8,19 +8,21 @@
   
 }
 .status p {
-  margin: 4px 0;
+  margin: 1px 0;
+}
+
+.status .admin{
+  display: none;
+  
 }
 
 .status.hover {
   background: #FAFAFA;
 }
 
-.status.admin{
-  display: none;
-  
-}
 
-.status.hovor .admin{
+
+.status.hover .admin{
   display: inline;
   
 }
